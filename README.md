@@ -36,7 +36,7 @@ string[] ResultArray(string[] array)
     return arrayRes;
 }
 string[] arrayFirst = CreateArray();
-Console.WriteLine();
+Console.WriteLine();fff
 Console.WriteLine("Entered array: ");
 ShowArray(arrayFirst);
 Console.WriteLine();
